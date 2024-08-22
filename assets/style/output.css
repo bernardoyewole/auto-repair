@@ -984,7 +984,7 @@ video {
 }
 
 .bg-hero {
-  background-image: url('./assets/img/repair-bg.jpg');
+  background-image: url('/auto-repair/assets/img/repair-bg.jpg');
 }
 
 .bg-cover {
