@@ -975,16 +975,24 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/assets\/img\/work\.jpg\'\)\] {
-  background-image: url('/assets/img/work.jpg');
+.bg-\[url\(\'\/auto-repair\/assets\/img\/repair-bg\.jpg\'\)\] {
+  background-image: url('/auto-repair/assets/img/repair-bg.jpg');
+}
+
+.bg-\[url\(\'\/auto-repair\/assets\/img\/work\.jpg\'\)\] {
+  background-image: url('/auto-repair/assets/img/work.jpg');
 }
 
 .bg-\[url\(\'assets\/img\/shop\.jpg\'\)\] {
   background-image: url('assets/img/shop.jpg');
 }
 
-.bg-hero {
-  background-image: url('/auto-repair/assets/img/repair-bg.jpg');
+.bg-\[url\(\'\/auto-repairassets\/img\/shop\.jpg\'\)\] {
+  background-image: url('/auto-repairassets/img/shop.jpg');
+}
+
+.bg-\[url\(\'\/auto-repair\/assets\/img\/shop\.jpg\'\)\] {
+  background-image: url('/auto-repair/assets/img/shop.jpg');
 }
 
 .bg-cover {
