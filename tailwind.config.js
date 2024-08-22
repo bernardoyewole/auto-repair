@@ -5,7 +5,12 @@ module.exports = {
     './style/**/*.css',
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'hero': "url('/assets/img/repair-bg.jpg')",
+        'bg-2': "url('/img/footer-texture.png')",
+      }
+    }
   },
   plugins: [],
 }
