@@ -1104,6 +1104,34 @@ video {
   background-image: url('/assets/img/shop.jpg');
 }
 
+.bg-\[url\(\'\/auto-repair\/assets\/img\/shop\.jpg\'\)\] {
+  background-image: url('/auto-repair/assets/img/shop.jpg');
+}
+
+.bg-\[url\(\'assets\/img\/shop\.jpg\'\)\] {
+  background-image: url('assets/img/shop.jpg');
+}
+
+.bg-\[url\(\'\.\.\/assets\/img\/shop\.jpg\'\)\] {
+  background-image: url('../assets/img/shop.jpg');
+}
+
+.bg-\[url\(\.\.\/assets\/img\/shop\.jpg\)\] {
+  background-image: url(../assets/img/shop.jpg);
+}
+
+.bg-\[url\(\/assets\/img\/shop\.jpg\)\] {
+  background-image: url(/assets/img/shop.jpg);
+}
+
+.bg-\[url\(\/\/assets\/img\/shop\.jpg\)\] {
+  background-image: url(//assets/img/shop.jpg);
+}
+
+.bg-\[url\(assets\/img\/shop\.jpg\)\] {
+  background-image: url(assets/img/shop.jpg);
+}
+
 .bg-cover {
   background-size: cover;
 }
